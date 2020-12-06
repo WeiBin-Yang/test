@@ -1,0 +1,48 @@
+
+---open appoitment
+11/16/2020
+---next year
+ISTE 442 - secure web(fall)
+----
+program writing intensice courses - 3 needed
+general education elective - 11 needed
+	ISTE 120 Computational Problem Solving in the Information Domain I
+	CPET 121 Computational Problem Solving I
+		mon && wed 10.10 - 12.05
+	CSEC 123 Software Development and Problem Solving I
+	CSCI 141 computer science
+	Modern Language()
+
+
+ISTE 444 - web server development(spring)
+	tue && thur. 11 - 12.15
+
+ISTE 456 - mobile II
+	tue && thur. 9.30 - 10.45
+ENGL 215
+	*mon. 11.15 - 12.05
+	wed. 11.15 - 12.05
+MEDG 106
+	tue && thur 12.30 - 13.45
+CPET 121 Computational Problem Solving I
+	mon && wed 10.10 - 12.05
+-------
+---nature science - physics
+BIOL 101 General Biology I & Lab I **
+BIOL 102 General Biology II & Lab II **
+BIOL 121 Introductory Biology I
+CHMG 111 General Organic Biochemistry I
+IMGS 111 Imaging Science Fundamentals
+MTSC 231 Contemporary Science- Biology
+MTSC 232 Contemporary Science- Chemistry
+MTSC 233 Contemporary Science- Physics
+* PHYS 111 College Physics I
+
+---scientific - *
+CHMG 111 General Organic Biochemistry I
+* MEDG 106 Microbiology of Health and Disease
+MTSC 234 Contemporary Science: Oceanus
+ENVS 101 Concepts of Environmental Science
+PHYS 111 College Physics
+PSYC 101 Introduction to Psychology
+PUBL 210 Intro to Qualitative Policy Analysis 
