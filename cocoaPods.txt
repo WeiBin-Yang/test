@@ -1,0 +1,19 @@
+https://cocoapods.org
+//cocoa pod 为安装到 ~/ .cocoapods/目录下
+
+sudo gem install cocoapods	//安装
+pod setup --verbose	//记录进程运行时候的进展
+pod search xxx		//查到目标能否能用
+pod update	//如果目标pod有更改，关闭xcode，然后update
+---开始cocopod
+vim Podfile	//创建pod file
+输入：-
+platform :ios, '8.0'
+use_frameworks!
+target "TextDemo" do
+pod 'AFNetworking'
+pod ''			//可以pod多个文件
+end
+-
+pod install	//然后就可以下载了
+//下载之后就可以直接import AFNetworking
